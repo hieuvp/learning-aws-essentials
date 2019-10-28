@@ -1,3 +1,5 @@
+# Generate table of contents
+# Keep docs up-to-date from local or remote code sources
 docs:
 	cd 01-course-introduction && doctoc README.md && md-magic README.md
 	cd 02-aws-essentials-you-need-to-know && doctoc README.md && md-magic README.md
