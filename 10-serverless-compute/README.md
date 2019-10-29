@@ -7,12 +7,12 @@
 
 
 - [Lambda](#lambda)
-- [Introduction to Lambda](#introduction-to-lambda)
-- [Lambda Basics](#lambda-basics)
-- [Lambda Test](#lambda-test)
-- [Wrap It Up - Lambda Summary](#wrap-it-up---lambda-summary)
-- [Hands-On Lab: Creating a Basic Lambda Function to Shut Down an EC2 Instance](#hands-on-lab-creating-a-basic-lambda-function-to-shut-down-an-ec2-instance)
-- [QUIZ: Lambda Essentials](#quiz-lambda-essentials)
+  - [Introduction to Lambda](#introduction-to-lambda)
+  - [Lambda Basics](#lambda-basics)
+  - [Lambda Test](#lambda-test)
+  - [Wrap It Up - Lambda Summary](#wrap-it-up---lambda-summary)
+  - [Hands-On Lab: Creating a Basic Lambda Function to Shut Down an EC2 Instance](#hands-on-lab-creating-a-basic-lambda-function-to-shut-down-an-ec2-instance)
+  - [QUIZ: Lambda Essentials](#quiz-lambda-essentials)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -20,23 +20,22 @@
 
 ## Lambda
 
-
-## Introduction to Lambda
-
-
-## Lambda Basics
+### Introduction to Lambda
 
 
-## Lambda Test
+### Lambda Basics
 
 
-## Wrap It Up - Lambda Summary
+### Lambda Test
 
 
-## Hands-On Lab: Creating a Basic Lambda Function to Shut Down an EC2 Instance
+### Wrap It Up - Lambda Summary
 
 
-## QUIZ: Lambda Essentials
+### Hands-On Lab: Creating a Basic Lambda Function to Shut Down an EC2 Instance
+
+
+### QUIZ: Lambda Essentials
 
 
 ## References

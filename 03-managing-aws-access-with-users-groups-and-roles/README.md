@@ -7,15 +7,15 @@
 
 
 - [Identity and Access Management (IAM)](#identity-and-access-management-iam)
-- [Introduction to AWS Identity and Access Management (IAM)](#introduction-to-aws-identity-and-access-management-iam)
-- [What is IAM?](#what-is-iam)
-- [IAM Initial Setup and Configuration](#iam-initial-setup-and-configuration)
-- [IAM Users and Policies](#iam-users-and-policies)
-- [IAM Groups and Policies](#iam-groups-and-policies)
-- [IAM Roles](#iam-roles)
-- [Wrap It Up - IAM Summary](#wrap-it-up---iam-summary)
-- [Hands-On Lab: Introduction to AWS Identity and Access Management (IAM)](#hands-on-lab-introduction-to-aws-identity-and-access-management-iam)
-- [QUIZ: AWS IAM Essentials](#quiz-aws-iam-essentials)
+  - [Introduction to AWS Identity and Access Management (IAM)](#introduction-to-aws-identity-and-access-management-iam)
+  - [What is IAM?](#what-is-iam)
+  - [IAM Initial Setup and Configuration](#iam-initial-setup-and-configuration)
+  - [IAM Users and Policies](#iam-users-and-policies)
+  - [IAM Groups and Policies](#iam-groups-and-policies)
+  - [IAM Roles](#iam-roles)
+  - [Wrap It Up - IAM Summary](#wrap-it-up---iam-summary)
+  - [Hands-On Lab: Introduction to AWS Identity and Access Management (IAM)](#hands-on-lab-introduction-to-aws-identity-and-access-management-iam)
+  - [QUIZ: AWS IAM Essentials](#quiz-aws-iam-essentials)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,32 +23,31 @@
 
 ## Identity and Access Management (IAM)
 
-
-## Introduction to AWS Identity and Access Management (IAM)
-
-
-## What is IAM?
+### Introduction to AWS Identity and Access Management (IAM)
 
 
-## IAM Initial Setup and Configuration
+### What is IAM?
 
 
-## IAM Users and Policies
+### IAM Initial Setup and Configuration
 
 
-## IAM Groups and Policies
+### IAM Users and Policies
 
 
-## IAM Roles
+### IAM Groups and Policies
 
 
-## Wrap It Up - IAM Summary
+### IAM Roles
 
 
-## Hands-On Lab: Introduction to AWS Identity and Access Management (IAM)
+### Wrap It Up - IAM Summary
 
 
-## QUIZ: AWS IAM Essentials
+### Hands-On Lab: Introduction to AWS Identity and Access Management (IAM)
+
+
+### QUIZ: AWS IAM Essentials
 
 
 ## References

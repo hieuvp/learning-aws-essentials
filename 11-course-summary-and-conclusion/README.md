@@ -7,9 +7,9 @@
 
 
 - [Final Steps](#final-steps)
-- [What We Learned](#what-we-learned)
-- [What's Next?](#whats-next)
-- [Get Recognized](#get-recognized)
+  - [What We Learned](#what-we-learned)
+  - [What's Next?](#whats-next)
+  - [Get Recognized](#get-recognized)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -17,14 +17,13 @@
 
 ## Final Steps
 
-
-## What We Learned
-
-
-## What's Next?
+### What We Learned
 
 
-## Get Recognized
+### What's Next?
+
+
+### Get Recognized
 
 
 ## References

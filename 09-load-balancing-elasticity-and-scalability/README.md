@@ -7,25 +7,25 @@
 
 
 - [Elastic Load Balancer (ELB)](#elastic-load-balancer-elb)
-- [Introduction to Load Balancing, Elasticity and Scalability](#introduction-to-load-balancing-elasticity-and-scalability)
-- [ELB Basics](#elb-basics)
-- [Creating an ELB](#creating-an-elb)
-- [Wrap Up - ELB Summary](#wrap-up---elb-summary)
-- [QUIZ: ELB Essentials](#quiz-elb-essentials)
+  - [Introduction to Load Balancing, Elasticity and Scalability](#introduction-to-load-balancing-elasticity-and-scalability)
+  - [ELB Basics](#elb-basics)
+  - [Creating an ELB](#creating-an-elb)
+  - [Wrap Up - ELB Summary](#wrap-up---elb-summary)
+  - [QUIZ: ELB Essentials](#quiz-elb-essentials)
 - [Auto Scaling](#auto-scaling)
-- [Introduction to Auto Scaling](#introduction-to-auto-scaling)
-- [Auto Scaling Basics](#auto-scaling-basics)
-- [Using Auto Scaling](#using-auto-scaling)
-- [Wrap It Up - Auto Scaling Summary](#wrap-it-up---auto-scaling-summary)
-- [QUIZ: Auto Scaling Essentials](#quiz-auto-scaling-essentials)
+  - [Introduction to Auto Scaling](#introduction-to-auto-scaling)
+  - [Auto Scaling Basics](#auto-scaling-basics)
+  - [Using Auto Scaling](#using-auto-scaling)
+  - [Wrap It Up - Auto Scaling Summary](#wrap-it-up---auto-scaling-summary)
+  - [QUIZ: Auto Scaling Essentials](#quiz-auto-scaling-essentials)
 - [Route 53](#route-53)
-- [Introduction to Route 53](#introduction-to-route-53)
-- [Route 53 Basics](#route-53-basics)
-- [Using Route 53](#using-route-53)
-- [CloudFront Basics](#cloudfront-basics)
-- [Wrap It Up - Route 53 Summary](#wrap-it-up---route-53-summary)
-- [Hands-On Lab: Setting Up an Application Load Balancer with an Auto Scaling Group and Route 53 in AWS](#hands-on-lab-setting-up-an-application-load-balancer-with-an-auto-scaling-group-and-route-53-in-aws)
-- [QUIZ: Route 53 Essentials](#quiz-route-53-essentials)
+  - [Introduction to Route 53](#introduction-to-route-53)
+  - [Route 53 Basics](#route-53-basics)
+  - [Using Route 53](#using-route-53)
+  - [CloudFront Basics](#cloudfront-basics)
+  - [Wrap It Up - Route 53 Summary](#wrap-it-up---route-53-summary)
+  - [Hands-On Lab: Setting Up an Application Load Balancer with an Auto Scaling Group and Route 53 in AWS](#hands-on-lab-setting-up-an-application-load-balancer-with-an-auto-scaling-group-and-route-53-in-aws)
+  - [QUIZ: Route 53 Essentials](#quiz-route-53-essentials)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -33,62 +33,59 @@
 
 ## Elastic Load Balancer (ELB)
 
-
-## Introduction to Load Balancing, Elasticity and Scalability
-
-
-## ELB Basics
+### Introduction to Load Balancing, Elasticity and Scalability
 
 
-## Creating an ELB
+### ELB Basics
 
 
-## Wrap Up - ELB Summary
+### Creating an ELB
 
 
-## QUIZ: ELB Essentials
+### Wrap Up - ELB Summary
+
+
+### QUIZ: ELB Essentials
 
 
 ## Auto Scaling
 
-
-## Introduction to Auto Scaling
-
-
-## Auto Scaling Basics
+### Introduction to Auto Scaling
 
 
-## Using Auto Scaling
+### Auto Scaling Basics
 
 
-## Wrap It Up - Auto Scaling Summary
+### Using Auto Scaling
 
 
-## QUIZ: Auto Scaling Essentials
+### Wrap It Up - Auto Scaling Summary
+
+
+### QUIZ: Auto Scaling Essentials
 
 
 ## Route 53
 
-
-## Introduction to Route 53
-
-
-## Route 53 Basics
+### Introduction to Route 53
 
 
-## Using Route 53
+### Route 53 Basics
 
 
-## CloudFront Basics
+### Using Route 53
 
 
-## Wrap It Up - Route 53 Summary
+### CloudFront Basics
 
 
-## Hands-On Lab: Setting Up an Application Load Balancer with an Auto Scaling Group and Route 53 in AWS
+### Wrap It Up - Route 53 Summary
 
 
-## QUIZ: Route 53 Essentials
+### Hands-On Lab: Setting Up an Application Load Balancer with an Auto Scaling Group and Route 53 in AWS
+
+
+### QUIZ: Route 53 Essentials
 
 
 ## References
