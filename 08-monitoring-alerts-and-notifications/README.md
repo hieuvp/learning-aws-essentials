@@ -8,11 +8,11 @@
 
 - [Overview of Monitoring, Alerts, and Notifications](#overview-of-monitoring-alerts-and-notifications)
   - [Summary of AWS Services for Monitoring, Alerts, and Notifications](#summary-of-aws-services-for-monitoring-alerts-and-notifications)
-  - [Simple Notification Service (SNS)](#simple-notification-service-sns)
-- [SNS Basics](#sns-basics)
-- [Using SNS](#using-sns)
-- [Wrap It Up - SNS Summary](#wrap-it-up---sns-summary)
-- [QUIZ: SNS Essentials](#quiz-sns-essentials)
+- [Simple Notification Service (SNS)](#simple-notification-service-sns)
+  - [SNS Basics](#sns-basics)
+  - [Using SNS](#using-sns)
+  - [Wrap It Up - SNS Summary](#wrap-it-up---sns-summary)
+  - [QUIZ: SNS Essentials](#quiz-sns-essentials)
 - [Management Tools](#management-tools)
   - [Introduction to Management Tools](#introduction-to-management-tools)
   - [CloudWatch Basics](#cloudwatch-basics)
@@ -31,18 +31,18 @@
 ### Summary of AWS Services for Monitoring, Alerts, and Notifications
 
 
-### Simple Notification Service (SNS)
+## Simple Notification Service (SNS)
 
-## SNS Basics
-
-
-## Using SNS
+### SNS Basics
 
 
-## Wrap It Up - SNS Summary
+### Using SNS
 
 
-## QUIZ: SNS Essentials
+### Wrap It Up - SNS Summary
+
+
+### QUIZ: SNS Essentials
 
 
 ## Management Tools
